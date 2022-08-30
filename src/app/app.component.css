@@ -1,0 +1,9 @@
+.completed {
+    background-color: rgba(167, 243, 208, var(--tw-bg-opacity));
+    border-color: rgba(110, 231, 183, var(--tw-bg-opacity));
+}
+
+.uncompleted {
+    background-color: rgba(254, 243, 199, var(--tw-bg-opacity));
+    border-color: rgba(253, 230, 138, var(--tw-border-opacity));
+}
